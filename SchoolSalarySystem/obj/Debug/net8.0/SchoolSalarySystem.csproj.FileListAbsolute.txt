@@ -1,0 +1,14 @@
+/Users/emmaspitz/RiderProjects/SchoolSalarySystem/SchoolSalarySystem/bin/Debug/net8.0/SchoolSalarySystem
+/Users/emmaspitz/RiderProjects/SchoolSalarySystem/SchoolSalarySystem/bin/Debug/net8.0/SchoolSalarySystem.deps.json
+/Users/emmaspitz/RiderProjects/SchoolSalarySystem/SchoolSalarySystem/bin/Debug/net8.0/SchoolSalarySystem.runtimeconfig.json
+/Users/emmaspitz/RiderProjects/SchoolSalarySystem/SchoolSalarySystem/bin/Debug/net8.0/SchoolSalarySystem.dll
+/Users/emmaspitz/RiderProjects/SchoolSalarySystem/SchoolSalarySystem/bin/Debug/net8.0/SchoolSalarySystem.pdb
+/Users/emmaspitz/RiderProjects/SchoolSalarySystem/SchoolSalarySystem/obj/Debug/net8.0/SchoolSalarySystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emmaspitz/RiderProjects/SchoolSalarySystem/SchoolSalarySystem/obj/Debug/net8.0/SchoolSalarySystem.AssemblyInfoInputs.cache
+/Users/emmaspitz/RiderProjects/SchoolSalarySystem/SchoolSalarySystem/obj/Debug/net8.0/SchoolSalarySystem.AssemblyInfo.cs
+/Users/emmaspitz/RiderProjects/SchoolSalarySystem/SchoolSalarySystem/obj/Debug/net8.0/SchoolSalarySystem.csproj.CoreCompileInputs.cache
+/Users/emmaspitz/RiderProjects/SchoolSalarySystem/SchoolSalarySystem/obj/Debug/net8.0/SchoolSalarySystem.dll
+/Users/emmaspitz/RiderProjects/SchoolSalarySystem/SchoolSalarySystem/obj/Debug/net8.0/refint/SchoolSalarySystem.dll
+/Users/emmaspitz/RiderProjects/SchoolSalarySystem/SchoolSalarySystem/obj/Debug/net8.0/SchoolSalarySystem.pdb
+/Users/emmaspitz/RiderProjects/SchoolSalarySystem/SchoolSalarySystem/obj/Debug/net8.0/SchoolSalarySystem.genruntimeconfig.cache
+/Users/emmaspitz/RiderProjects/SchoolSalarySystem/SchoolSalarySystem/obj/Debug/net8.0/ref/SchoolSalarySystem.dll
