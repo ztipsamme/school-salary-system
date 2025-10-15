@@ -12,3 +12,4 @@
 /Users/emmaspitz/RiderProjects/SchoolSalarySystem/SchoolSalarySystem/obj/Debug/net8.0/SchoolSalarySystem.pdb
 /Users/emmaspitz/RiderProjects/SchoolSalarySystem/SchoolSalarySystem/obj/Debug/net8.0/SchoolSalarySystem.genruntimeconfig.cache
 /Users/emmaspitz/RiderProjects/SchoolSalarySystem/SchoolSalarySystem/obj/Debug/net8.0/ref/SchoolSalarySystem.dll
+/Users/emmaspitz/RiderProjects/SchoolSalarySystem/SchoolSalarySystem/obj/Debug/net8.0/SchoolSalarySystem.sourcelink.json

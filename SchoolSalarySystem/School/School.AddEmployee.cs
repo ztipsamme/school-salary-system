@@ -34,6 +34,8 @@ public partial class School
         if (newEmployee == null || Ui.CancelRequested) return;
 
         _employees.Add(newEmployee);
+        SaveEmployees();
+        
         Console.WriteLine($"✅ Added {newEmployee.Name}");
     }
 }

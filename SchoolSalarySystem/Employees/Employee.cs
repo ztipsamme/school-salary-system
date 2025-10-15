@@ -1,3 +1,5 @@
+using System.Text.Json.Serialization;
+
 namespace SchoolSalarySystem;
 
 public abstract class Employee
@@ -22,7 +24,7 @@ public abstract class Employee
         get => _baseSalary;
         private set => _baseSalary = value < 0 ? 0 : value;
     }
-
+    
     public Employee(string name, DateOnly birthday, DateOnly startDate,
         decimal baseSalary)
     {

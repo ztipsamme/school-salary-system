@@ -2,27 +2,12 @@ namespace SchoolSalarySystem;
 
 public partial class School
 {
-    private List<Employee> _employees = new()
+    private List<Employee> _employees = new();
+
+    public School()
     {
-        new Teacher(
-            "Emma",
-            DateOnly.ParseExact("971208", "yyMMdd", null),
-            DateOnly.ParseExact("230302", "yyMMdd", null),
-            26000, "Dance", 1
-        ),
-        new CourseAdministrator(
-            "Bernd",
-            DateOnly.ParseExact("680918", "yyMMdd", null),
-            DateOnly.ParseExact("130416", "yyMMdd", null),
-            35000
-        ),
-        new Administrator(
-            "Pia",
-            DateOnly.ParseExact("690321", "yyMMdd", null),
-            DateOnly.ParseExact("120416", "yyMMdd", null),
-            40000, "Logistics"
-        ),
-    };
+        LoadEmployees();
+    }
 
     public void ListEmployees()
     {
@@ -107,6 +92,7 @@ public partial class School
             {
                 Console.WriteLine($"{employee.Name} has been removed");
                 _employees.Remove(employee);
+                SaveEmployees();
             }
             else
             {
